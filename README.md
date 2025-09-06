@@ -1,3 +1,3 @@
-- 👋 Hi, I’m @gmartijn
+- 👋 Hi, I’m @gmartijn, ex-auditor that went rogue as a security officer
 - 👀 I’m interested in Cloud infrastructure (AWS and Azure) and the offensive testing of those infrastructures
 - 🌱 I’m currently learning to code in Python and brushing up on my Azure skills
